@@ -2,7 +2,7 @@
 
 Welcome to my developer portfolio repository! This is a project where I've showcased my skills, projects, and achievements as a developer. You can view the live portfolio [here](https://suryawebs.netlify.app/).
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](Screenshot.png)
 
 ## Table of Contents
 
