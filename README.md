@@ -23,7 +23,7 @@ This portfolio website serves as a representation of my work and skills as a dev
 
 ## Features
 
-- **Project Showcase:** Displays a selection of my notable projects along with descriptions and links to their repositories or live demos.
+- **Project Showcase:** Displays a selection of my notable projects links to their repositories and live demos.
 - **Skills:** Highlights the programming languages, tools, and technologies I am proficient in.
 - **About Me:** A brief introduction to who I am, my background, and my approach to coding.
 - **Contact:** Provides ways for visitors to get in touch with me, including links to my social media profiles and email.
